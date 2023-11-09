@@ -1,5 +1,5 @@
 # Implement decision tree from scratch
-Individual assignment 1
+Decision tree from scratch 
 
 ## About this project 
 - Data preprocessing, feature engineering using Python

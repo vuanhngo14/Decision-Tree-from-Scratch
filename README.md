@@ -1,4 +1,4 @@
-# CSCI316_IndividualA1
+# Implement decision tree from scratch
 Individual assignment 1
 
 ## About this project 
